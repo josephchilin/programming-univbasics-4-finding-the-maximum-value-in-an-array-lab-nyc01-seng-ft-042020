@@ -5,7 +5,6 @@ def find_max_value(array)
 #
 #    count += 1
 #  end
-    array.sort.last = sorted_array
-    return sorted_array
+    array.sort.last
 
 end
